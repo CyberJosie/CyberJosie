@@ -24,3 +24,5 @@
   &#8226; SQL<br>
 </p>
 
+
+<small>P.S. I mostly make these repositories for me, so don't expect support/patching.. Deal with it or do it yourself.</small>
