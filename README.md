@@ -15,11 +15,11 @@
 <h3 align="center">Top Skills</h3>
 <p align="center">
   &#8226; Information Technology<br>
-  &#8226; Networking<br>
-  &#8226; APIs<br>
-  &#8226; SQL<br>
   &#8226; Embedded Software<br>
+  &#8226; Networking<br>
   &#8226; GNU/Linux<br>
   &#8226; Blockchain<br>
+  &#8226; APIs<br>
+  &#8226; SQL<br>
 </p>
 
