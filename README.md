@@ -3,6 +3,8 @@
 <h1 align="center">CyberJosie</h1>
 <p align="center">Python Developer / Linux Administrator / Enterprise Blockchain Architect / Self-inspired</p>
 
+Nothing to see here.
+
 <h3 align="center">Languages</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
